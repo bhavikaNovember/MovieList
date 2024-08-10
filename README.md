@@ -1,24 +1,4 @@
 # movie-list
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+I have completed the Sign Up, Login and MovieList Page using Vuejs and I have done only done the Frontend Part
+I tried web scrapping but I was not able to do so I have displayed the entire page.
